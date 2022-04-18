@@ -2,7 +2,7 @@
   <kbd>
     <img align="center" height="180px" src="https://user-images.githubusercontent.com/54458726/163830812-cea06a55-37e8-431d-a66c-5a6e1a1f9ec4.gif" />
   </kbd>
-  <h3 align="center">Greetings! I'm Carlos :)</h3>
+  <h3 align="center">Greetings! I'm Carlos <img align="center" height="16px" src="https://user-images.githubusercontent.com/54458726/163845517-d5f49033-7e03-4f32-8e06-8daf0ddddee0.gif" /></h3>
 </p>
 
 <p align="center">I'm a <strong>Full-Stack Developer & Solidity Engineer</strong><br />Feel free to take a look at some of my repos below! <img align="center" height="20px" src="https://user-images.githubusercontent.com/54458726/163845233-3eb6fdca-58dc-4822-88e5-448063abd7fd.gif" /></p>
