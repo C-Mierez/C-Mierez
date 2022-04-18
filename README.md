@@ -41,7 +41,7 @@
     Twitter
   </a>
   <br/>
-  <a href="carlos.mierez20@gmail.com" align="center">
+  <a href="mailto:carlos.mierez20@gmail.com" align="center">
     <img align="center" width="40" src="https://user-images.githubusercontent.com/54458726/163840432-d98ca13c-edd7-4c9e-b5d0-6f2c30729c31.gif" />
     <br/>
     E-Mail
