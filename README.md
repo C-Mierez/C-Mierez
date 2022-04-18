@@ -1,6 +1,6 @@
 <p align="center" width="300">
-  <img align="center" width="300" src="https://user-images.githubusercontent.com/54458726/163830812-cea06a55-37e8-431d-a66c-5a6e1a1f9ec4.gif" />
-   <h3 align="center">Greetings! I'm Carlos 👀</h3>
+  <img align="center" height="180px" src="https://user-images.githubusercontent.com/54458726/163830812-cea06a55-37e8-431d-a66c-5a6e1a1f9ec4.gif" />
+  <h3 align="center">Greetings! I'm Carlos 👀</h3>
 </p>
 
 <p align="center">I'm a <strong>Full-Stack Developer & Solidity Engineer</strong><br />Feel free to take a look at some of my repos below! 👇</p>
@@ -17,22 +17,16 @@
 
 
 <!-- Another good theme: swift, prussian, gotham, github_dark -->
+<div align="center">
 <a href="https://github.com/C-Mierez">
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=c-mierez&count_private=true&show_icons=true&theme=github_dark"/>
+<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=c-mierez&count_private=true&show_icons=true&theme=github_dark&custom_title=GitHub Stats"/>
 </a>
 
 <a href="https://github.com/C-Mierez">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-mierez&layout=compact&langs_count=7&count_private=true&theme=github_dark"/>
+<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-mierez&layout=compact&langs_count=7&count_private=true&theme=github_dark"/>
 </a>
+</div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 ---
