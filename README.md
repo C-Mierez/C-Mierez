@@ -5,6 +5,7 @@
 
 <p align="center">I'm a <strong>Full-Stack Developer & Solidity Engineer</strong><br />Feel free to take a look at some of my repos below! 👇</p>
 <p align="right">
+
   <!-- Should find an svg with a non-neutral color
   <a href="https://twitter.com/CMierez_" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-twitter@1.1.3/twitter.svg" alt="c-mierez" height="32px" width="32px" />
@@ -34,6 +35,19 @@
 <br/>
 <br/>
 
-## ✉ Contact Me
-> - [Twitter](https://twitter.com/CMierez_)
-> - [E-Mail](carlos.mierez20@gmail.com)
+---
+<p align="center"><i>Reach out to me:</i>
+  <br/>
+  <br/>
+  <a href="https://twitter.com/CMierez_" align="center">
+    <img align="center" width="40" src="https://user-images.githubusercontent.com/54458726/163840500-f5031e4e-f53f-4b45-b8f1-73e665d32cc4.gif" />
+    <br/>
+    Twitter
+  </a>
+  <br/>
+  <a href="carlos.mierez20@gmail.com" align="center">
+    <img align="center" width="40" src="https://user-images.githubusercontent.com/54458726/163840432-d98ca13c-edd7-4c9e-b5d0-6f2c30729c31.gif" />
+    <br/>
+    E-Mail
+  </a>
+</p>
