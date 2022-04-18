@@ -18,11 +18,11 @@
 
 <!-- Another good theme: swift, prussian, gotham, github_dark -->
 <a href="https://github.com/C-Mierez">
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=c-mierez&count_private=true&show_icons=true&theme=github_dark"/>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=c-mierez&count_private=true&show_icons=true&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/C-Mierez">
-<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-mierez&layout=compact&langs_count=7&count_private=true&theme=github_dark"/>
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-mierez&layout=compact&langs_count=7&count_private=true&theme=github_dark"/>
 </a>
 
 <br/>
