@@ -1,5 +1,7 @@
 <p align="center" width="300">
-  <img align="center" height="180px" src="https://user-images.githubusercontent.com/54458726/163830812-cea06a55-37e8-431d-a66c-5a6e1a1f9ec4.gif" />
+  <kbd>
+    <img align="center" height="180px" src="https://user-images.githubusercontent.com/54458726/163830812-cea06a55-37e8-431d-a66c-5a6e1a1f9ec4.gif" />
+  </kbd>
   <h3 align="center">Greetings! I'm Carlos 👀</h3>
 </p>
 
